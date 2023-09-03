@@ -1,0 +1,17 @@
+sui.log*
+
+.env
+
+*.pem
+*.key
+*.crt
+*.csr
+
+# Ignore all intellij folders
+.idea
+backend/.idea
+frontend/.idea
+
+# Ignore all node_modules folders
+**/node_modules
+
